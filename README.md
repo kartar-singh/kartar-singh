@@ -2,11 +2,7 @@
 
 ### console.log("Hello World!");
 
-<img src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/Hi.gif" width="29px"> **Hello World!** &nbsp;<img src="# Hi there! &nbsp; <img src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/Hi.gif" width="32px">
-
-### console.log("Hello World!");
-
-<img src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/Hi.gif" width="29px"> **Hello World!** &nbsp;<img src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/Earth.gif" width="24px">
+<img src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/Hi.gif" width="29px"> **Hello World!** &nbsp; <img src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/Hi.gif" width="32px">
 
 <img align='right' src="https://github.com/kartar-singh/kartar-singh/blob/master/Assets/Coding.gif" width="230">
 <p><img src="https://github.com/milan-rawat/milan-rawat/blob/master/Assets/giphy.gif" width="30">
